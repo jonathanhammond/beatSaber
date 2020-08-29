@@ -1,20 +1,46 @@
 {
   "_version": "2.0.0",
-  "_songName": "Pork Soda",
+  "_songName": "Hadouken",
   "_songSubName": "",
-  "_songAuthorName": "Glass Animals",
-  "_levelAuthorName": "DaWhale",
-  "_beatsPerMinute": 96,
+  "_songAuthorName": "Zeds Dead",
+  "_levelAuthorName": "Funrankable",
+  "_beatsPerMinute": 145,
   "_songTimeOffset": 0,
   "_shuffle": 0,
   "_shufflePeriod": 0.5,
-  "_previewStartTime": 183.5935821533203,
-  "_previewDuration": 10,
-  "_songFilename": "Pork Soda.egg",
-  "_coverImageFilename": "pork_soda.jpg",
-  "_environmentName": "NiceEnvironment",
+  "_previewStartTime": 156,
+  "_previewDuration": 14,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
   "_customData": {
-    "_contributors": [],
+    "_contributors": [
+	{
+      "role": "Expert+, Hard-Easy",
+      "name": "Baxter395",
+      "iconPath": "baxman.png"
+      },
+      {
+      "role": "Expert",
+      "name": "Pixelguy",
+      "iconPath": "pixel.png"
+      },
+      {
+      "_role": "Lighter",
+      "_name": "LittleAsi",
+      "_iconPath": "littleasi.png"
+      },
+      {
+      "_role": "Tester",
+      "_name": "Redmagi",
+      "_iconPath": "redmagi.png"
+      },
+      {
+      "_role": "Tester",
+      "_name": "Checkthepan",
+      "_iconPath": "check.png"
+      }
+	],
     "_customEnvironment": "",
     "_customEnvironmentHash": ""
   },
@@ -23,22 +49,186 @@
       "_beatmapCharacteristicName": "Standard",
       "_difficultyBeatmaps": [
         {
-          "_difficulty": "Expert",
-          "_difficultyRank": 7,
-          "_beatmapFilename": "Expert.dat",
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
           "_noteJumpMovementSpeed": 10,
           "_noteJumpStartBeatOffset": 0,
           "_customData": {
             "_difficultyLabel": "",
-            "_editorOffset": 465,
-            "_editorOldOffset": 465,
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+			"_colorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_colorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+        "_envColorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_envColorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
             "_warnings": [],
             "_information": [],
             "_suggestions": [],
             "_requirements": []
           }
-        }
-      ]
-    }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 1,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+			"_colorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_colorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+        "_envColorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_envColorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+			"_colorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_colorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+        "_envColorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_envColorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 18,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+			"_colorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_colorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 0.7
+        },
+        "_envColorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_envColorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+			"_colorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_colorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+        "_envColorLeft": {
+          "r": 0.7,
+          "g": 0.7,
+          "b": 0.7
+        },
+        "_envColorRight": {
+          "r": 0.26,
+          "g": 0.72,
+          "b": 1
+        },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+			}
+		}
+	  ]
+	}
   ]
 }
